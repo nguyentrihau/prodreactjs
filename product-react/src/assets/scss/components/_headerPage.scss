@@ -1,0 +1,13 @@
+.navbar {
+  #navbarNav li a {
+    color: white;
+  }
+  .login {
+    font-weight: 600;
+    background-color: rgb(7, 79, 186);
+    border-radius: 5px;
+    &:hover {
+      background-color: rgb(58, 194, 43);
+    }
+  }
+}

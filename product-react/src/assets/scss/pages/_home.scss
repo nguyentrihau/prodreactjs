@@ -1,0 +1,43 @@
+@import "../components/headerPage";
+@import "../components/btt";
+@import "../components/footer";
+
+.my__home {
+  text-align: center;
+  .change__button {
+    border-radius: 5px;
+    border: none;
+    margin: 30px 0;
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+
+    p {
+      margin: 2px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .add {
+      text-decoration: none;
+    }
+    .icon__item {
+      .fa {
+        font-size: 40px;
+        color: rgb(61, 82, 29);
+        display: block;
+      }
+      span {
+        color: rgb(26, 17, 5);
+        display: block;
+        padding-left: 5px;
+      }
+    }
+    &:hover {
+      background-color: yellow;
+    }
+  }
+  .add_button {
+    margin-left: 5px;
+  }
+}

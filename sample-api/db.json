@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "name": "SamSung j3",
+      "produce": "1232",
+      "price": "4000000",
+      "description": "product 3",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/77849/samsung-galaxy-j3-pro-2017-hh-600x600.jpg",
+      "id": "xWbk1Ck9-ba7uQZZiFxpL"
+    },
+    {
+      "name": "SamSung j5",
+      "produce": "2017",
+      "price": "5000000",
+      "description": "upto descr",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/86689/samsung-galaxy-j5-prime-1-300x300.jpg",
+      "id": "rovKMQRGxpAUUQet_dE7W"
+    },
+    {
+      "name": "SamSungj7",
+      "produce": "2019",
+      "price": "6000000",
+      "description": "description 4",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/72198/samsung-galaxy-j7-vang-org-1.png",
+      "id": "7A3folJnaRJJzsaHWAZ81"
+    },
+    {
+      "name": "Iphone 12",
+      "produce": "2019",
+      "price": "25000000",
+      "description": "Thông tin chi tiết sản phẩm Iphone 12",
+      "img": "https://img.websosanh.vn/v2/users/review/images/g0uimocg53p63.jpg?compress=85",
+      "id": "oPSzE11HGgfcH0LJ4aSfd"
+    },
+    {
+      "name": "Iphone 13",
+      "produce": "2020",
+      "price": "35000000",
+      "description": "okasdfafad",
+      "img": "https://hc.com.vn/i/ecommerce/media/ckeditor_3370949.jpg",
+      "id": "g9jGmwPYsOSI12CJGCy5C"
+    },
+    {
+      "name": "Iphone 14",
+      "produce": "2021",
+      "price": "44000000",
+      "description": "azdsfasdv",
+      "img": "https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/t/_/t_m_12.png",
+      "id": "2Ycqaw-fliB3Jf-OPyqbk"
+    },
+    {
+      "name": "XiaoMi Note 7",
+      "produce": "2020",
+      "price": "10000000",
+      "description": "description 7",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/167535/xiaomi-redmi-note-7-xanh-duong-new-600x600-200x200.jpg",
+      "id": "6G4xnBCWPYRqMixXxMFtV"
+    },
+    {
+      "name": "XiaoMi Note 5",
+      "produce": "2019",
+      "price": "8000000",
+      "description": "description 8",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/153953/xiaomi-redmi-note-5-blue-600x600.jpg",
+      "id": "lNgnNB2P_KW88EadiSwZu"
+    },
+    {
+      "name": "iphone 0",
+      "price": "123232",
+      "description": "ádfsaf",
+      "produce": "2022",
+      "img": "https://4.bp.blogspot.com/-047Zit2nbz0/UFlkDFNgv6I/AAAAAAAACfI/b5MC5sjXRO0/s1600/424674_266472456789459_223916854_n.jpg",
+      "id": "YCMCrZ66ArxDnA7Fj39zu"
+    },
+    {
+      "name": "iphone 0",
+      "price": "123232",
+      "description": "ádfsaf",
+      "produce": "2022",
+      "img": "https://4.bp.blogspot.com/-047Zit2nbz0/UFlkDFNgv6I/AAAAAAAACfI/b5MC5sjXRO0/s1600/424674_266472456789459_223916854_n.jpg",
+      "id": "68dBLq9Z24Rfi7e9-Dogk"
+    },
+    {
+      "name": "iphone 0",
+      "price": "123232",
+      "description": "ádfsaf",
+      "produce": "2022",
+      "img": "https://4.bp.blogspot.com/-047Zit2nbz0/UFlkDFNgv6I/AAAAAAAACfI/b5MC5sjXRO0/s1600/424674_266472456789459_223916854_n.jpg",
+      "id": "Zns-rLLp5gxq02AehnvNS"
+    },
+    {
+      "name": "iphone 10",
+      "price": "123232",
+      "description": "ádfsaf",
+      "produce": "2022",
+      "img": "https://4.bp.blogspot.com/-047Zit2nbz0/UFlkDFNgv6I/AAAAAAAACfI/b5MC5sjXRO0/s1600/424674_266472456789459_223916854_n.jpg",
+      "id": "4tglXdbXcypRTYb__3wzc"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
